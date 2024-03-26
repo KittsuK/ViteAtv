@@ -1,0 +1,16 @@
+*{
+    background-color: rgb(43, 43, 43);
+}
+
+.divPrincipal{
+    position: fixed;
+    display: flex;
+    flex-direction: column;
+    top: 0;
+    left: 0;
+    width: 5vw;
+    height: 100%;
+    align-items: center;
+    border-right: 2px solid black;
+    text-decoration: underline;
+}
